@@ -1,0 +1,3 @@
+entrypoint: 'no'
+env: flex
+runtime: python
